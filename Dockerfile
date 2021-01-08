@@ -1,6 +1,6 @@
 FROM openjdk:8-jre
 
-MAINTAINER Jonas Bonno Mikkelsen (https://github.com/JonasBonno)
+MAINTAINER Oli Gill (https://github.com/olig89)
 
 # Updating container
 RUN apt-get update && \
